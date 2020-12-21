@@ -1,1 +1,1 @@
-# ms-azure-application-insights
+# Microsoft Azure Application Insights integration for New Relic
