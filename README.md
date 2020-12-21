@@ -12,6 +12,7 @@ The following application settings need to be provided in the Azure Function con
 ```
 MS_APPLICATION_INSIGHTS_APP_ID: Application ID from the Application Insights resource for your application
 MS_APPLICATION_INSIGHTS_APP_KEY: Application API key from the Application Insights resource for your application
+NR_ACCOUNT_ID: New Relic Account ID
 NR_INSIGHTS_INSERT_API_KEY: New Relic Insights Insert API Key
 ```
 
